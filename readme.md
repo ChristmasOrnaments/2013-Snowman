@@ -34,7 +34,7 @@ I had the PCBs manufactured by iTead Studio and assembled them:
 ![iTead_boards](media/front.jpg "iTead_boards") ![back](media/back.jpg "back")
 
 Here's the ornament in action:
-[Snowman_video](media/Snowman.gif)
+![Snowman_video](media/Snowman.gif "Snowman")
 
 
 
